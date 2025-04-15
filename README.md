@@ -6,6 +6,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lizyshare&show_icons=true">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizyshare)](https://github.com/lizyshare/github-readme-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lizyshare/lizyshare/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lizyshare/lizyshare/output/github-contribution-grid-snake.svg">

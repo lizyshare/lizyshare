@@ -4,11 +4,14 @@
 - 🌱 I'm currently learning LLMs and Knowledge graph.
 - 💬 I usually think up to write some [personal blog](https://blog.csdn.net/weixin_51104915?type=blog), welcome comments exchange.
 
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wdndev&show_icons=true">
 
-## Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&theme=dark" alt="GitHub Activity">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **lizyshare/lizyshare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,14 @@
 ## Hi there 👋
+- 👋 Hi, I'm Zhiyong Li.
+- 🎓 I am a postgraduate student specializing in Artificial Intelligence.
+- 🌱 I'm currently learning LLMs and Knowledge graph.
+- 💬 I usually think up to write some [personal blog](https://blog.csdn.net/weixin_51104915?type=blog), welcome comments exchange.
 
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+
+## Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&theme=dark" alt="GitHub Activity">
 <!--
 **lizyshare/lizyshare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

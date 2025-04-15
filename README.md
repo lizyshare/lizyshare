@@ -1,15 +1,15 @@
 ## Hi there 👋
 - 👋 Hi, I'm Zhiyong Li.
 - 🎓 I am a postgraduate student specializing in Artificial Intelligence.
-- 🌱 I'm currently learning LLMs and Knowledge graph.
+- 🌱 I am currently learning LLMs and Knowledge graph.
 - 💬 I usually think up to write some [personal blog](https://blog.csdn.net/weixin_51104915?type=blog), welcome comments exchange.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wdndev&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lizyshare&show_icons=true">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wdndev/wdndev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lizyshare/lizyshare/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lizyshare/lizyshare/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lizyshare/lizyshare/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--

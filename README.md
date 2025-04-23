@@ -2,7 +2,7 @@
 - 👋 Hi, I'm Zhiyong Li.
 - 🎓 I am a postgraduate student specializing in Artificial Intelligence.
 - 🌱 I am currently learning LLMs and Knowledge Graph.
-- 💬 I usually think up to write some [personal blog](https://blog.csdn.net/weixin_51104915?type=blog), welcome comments exchange.
+- 💬 I usually think up to write some [personal blog](https://lizyshare.github.io/), welcome comments exchange.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lizyshare&show_icons=true">
 
